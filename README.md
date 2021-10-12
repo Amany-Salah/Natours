@@ -1,5 +1,7 @@
 # Natours
 Exciting tours for adventurous people
 
-# To run the project
-npm install
+# Steps to run project:
+- Run your cmd in the project path
+- Install node-modules: npm install
+- Use live-server: live-server
